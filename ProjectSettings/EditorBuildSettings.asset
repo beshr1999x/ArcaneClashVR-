@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/XR TAHAKOM/Scenes/GamePlay.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Samples/Meta XR Core SDK/65.0.0/Sample Scenes/ControllerModels.unity
+    guid: 39cfe7aa0a2d46c47994d8d0308ec663
+  - enabled: 1
+    path: Assets/XR TAHAKOM/Scenes/XR TAHAKOM.unity
+    guid: 13ea8d104f1478448adb3d847773d6f7
+  - enabled: 1
+    path: Assets/XR TAHAKOM/Scenes/GamePlayScene.unity
+    guid: 5955b8541c9da784f81896d32efb91f6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 276dc9056b2363b43934e940b4ef5681,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 429fb9ad577abe942ade95ebcb00f9d2,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f487f1e92e68c254fb813c68e11881e1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4e91a941f73944e46a70de9033f0f61c,
+      type: 2}
